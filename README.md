@@ -28,6 +28,8 @@ difficulty (easy to hard, hard to easy or random), and the presence of timer (wi
 or without countdown timer). The experimental unit is a single student from STAT 158 Lab Session and the response is the
 student’s accuracy in the 4-minute calculation test. 
 
+<img width="889" height="720" alt="image" src="https://github.com/user-attachments/assets/a60813cf-015d-45c7-8977-b92fd7b1cab7" />
+
 Also, according to the pilot run data, we conducted power analysis to decide the sample size
 we were going to use. By estimating the variance of measurement error and predicting interesting
 effect size for the main conditions, we obtained 3 power curves for the 3 factors respectively (more
