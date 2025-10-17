@@ -23,12 +23,21 @@ in STAT 158. Besides the conditions we mentioned above, we also conducted some i
 contrasts which might give us a more specific comparison.
 
 In the experiment we employed, these are the levels we have respectively for the three
-factors of interest: layout of questions (one at a time or on a single page), order of question
+factors of interest: **layout of questions (one at a time or on a single page), order of question
 difficulty (easy to hard, hard to easy or random), and the presence of timer (with countdown timer
-or without countdown timer). The experimental unit is a single student from STAT 158 Lab Session and the response is the
+or without countdown timer).** The experimental unit is a single student from STAT 158 Lab Session and the response is the
 student’s accuracy in the 4-minute calculation test. 
 
 <img width="889" height="720" alt="image" src="https://github.com/user-attachments/assets/a60813cf-015d-45c7-8977-b92fd7b1cab7" />
+
+Besides the separate effects of the factors, we will also test some relevant contrasts. Since we are much curious about differences within each factor, we decided
+to carry out 3 main effect contrasts:
+a. one at a time vs. single page in layout of questions;
+b. random order vs. not random order in order of questions;
+c. with timer vs. without timer in display of countdown timer.
+
+<img width="1092" height="269" alt="Screenshot 2025-10-17 at 6 28 05 PM" src="https://github.com/user-attachments/assets/b52a8318-d1d2-4ec1-b320-da3602f47648" />
+
 
 Also, according to the pilot run data, we conducted power analysis to decide the sample size
 we were going to use. By estimating the variance of measurement error and predicting interesting
