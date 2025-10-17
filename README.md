@@ -1,5 +1,6 @@
 # Experimental Design on the Effects of Test Environments on Students’ Performance
 2023Fall  UCBerkeley STAT158 Final Project
+Collaborated with Lisa(Manting) Li and Jason(Dingda) Yang
 
 ## Introduction
 Students often find themselves encountering diverse emotional responses when taking
